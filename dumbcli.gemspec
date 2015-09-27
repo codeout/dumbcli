@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Shintaro Kojima"]
   spec.email         = ["goodies@codeout.net"]
 
-  spec.summary       = 'A scaffold of ruby wrapper of rancid'
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = 'A scaffold of ruby wrapper of rancid xlogin'
+  spec.description   = "DumbCLI is a ruby wrapper of rancid xlogin that is a CLI handler of network devices. You can easily extends DumbCLI's scaffold classes to manage your devices."
   spec.homepage      = 'https://github.com/codeout/dumbcli'
   spec.license       = 'MIT'
 
